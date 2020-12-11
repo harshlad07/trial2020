@@ -1,5 +1,5 @@
 w3school HTML -- Basic Learning
-Things Learned -- basic,element,attribute,paragraphs,heading,style,comment,images,color,link
+Things Learned -- basic,element,attribute,paragraphs,heading,style,comment,images,color,link,table,list,block and inline
 
 HTML Table Summary
 Use the HTML <table> element to define a table
@@ -37,3 +37,10 @@ Use the HTML <li> element to define a list item
 Lists can be nested
 List items can contain other HTML elements
 Use the CSS property float:left to display a list horizontally
+
+--->Ordered List
+Use the HTML <ol> element to define an ordered list
+Use the HTML type attribute to define the numbering type
+Use the HTML <li> element to define a list item
+Lists can be nested
+List items can contain other HTML elements
