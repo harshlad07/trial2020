@@ -15,3 +15,25 @@ Use the CSS border-spacing property to set the spacing between cells
 Use the colspan attribute to make a cell span many columns
 Use the rowspan attribute to make a cell span many rows
 Use the id attribute to uniquely define one table
+
+HTML List
+Tag	Description
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list
+---> Unordered List 
+Value	 - Description
+disc	 - Sets the list item marker to a bullet (default)
+circle - Sets the list item marker to a circle
+square - Sets the list item marker to a square
+none	 - The list items will not be marked
+-->Chap. Summary
+Use the HTML <ul> element to define an unordered list
+Use the CSS list-style-type property to define the list item marker
+Use the HTML <li> element to define a list item
+Lists can be nested
+List items can contain other HTML elements
+Use the CSS property float:left to display a list horizontally
